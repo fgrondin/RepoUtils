@@ -1,0 +1,12 @@
+[push]
+	default = matching
+[color]
+	ui = auto
+[diff]
+	tool = vimdiff
+[alias]
+	l = log --oneline
+	lg = log --oneline --graph --decorate
+[user]
+	name = fgrondin
+	email = fgrondin@users.noreply.github.com
